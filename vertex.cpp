@@ -1,3 +1,7 @@
+/*
+delatvan@gmail.com
+*/
+
 #include "vertex.hpp"
 #include "edge.hpp"
 

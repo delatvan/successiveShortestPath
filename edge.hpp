@@ -1,3 +1,7 @@
+/*
+delatvan@gmail.com
+*/
+
 // edge.hpp (Declaration of Class Edge)
 #ifndef EDGE_HPP
 #define EDGE_HPP

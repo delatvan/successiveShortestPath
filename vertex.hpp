@@ -1,3 +1,7 @@
+/*
+delatvan@gmail.com
+*/
+
 // vertex.hpp (Declaration of Class Graph)
 #ifndef VERTEX_HPP
 #define VERTEX_HPP

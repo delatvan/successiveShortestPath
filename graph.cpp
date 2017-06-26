@@ -1,3 +1,7 @@
+/*
+delatvan@gmail.com
+*/
+
 #include "graph.hpp"
 #include <fstream> 
 #include <iostream>

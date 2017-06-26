@@ -1,3 +1,7 @@
+/*
+delatvan@gmail.com
+*/
+
 #include <iostream>
 #include <fstream> 
 #include "vertex.hpp"
